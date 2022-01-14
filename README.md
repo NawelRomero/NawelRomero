@@ -12,9 +12,11 @@
 
 ## Social Networks:
 
--[Instagram][Instagram]
--[Twitter][Twitter]
--[Gmail][Gmail]
+- [Instagram][Instagram]
+
+- [Twitter][Twitter]
+
+- [Gmail][Gmail]
 
 
 
