@@ -5,7 +5,7 @@
 
 - 🌱 My strengths are Html, Css, Scss, and Bootstrap.
 - 👯 I am currently learning JavaScript.
-- 🥅 Also finishing FrontEnd in [coderhouse][website]
+- 🥅 Also finishing FrontEnd in [coderhouse][website].
 
 
 
