@@ -22,6 +22,14 @@
 
 
 
+
+## Languages and tools:
+
+
+
+
+
+
 <!--LINKS-->
 [website]:https://www.coderhouse.com/
 [Instagram]:https://www.instagram.com/naweliano/
@@ -29,19 +37,7 @@
 [Gmail]:mailto:vermilionx123@gmail.com/
 
 
-##Languages and tools:
-Visual Studio Code
-HTML5
-CSS3
-Sass
-JavaScript
-React
-Node.js
-SQL
-MySQL
-MongoDB
-Git
-GitHub
-Terminal
+
+
 
 
