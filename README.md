@@ -6,7 +6,7 @@
 - 🌱 My strengths are Html, Css, Scss, and Bootstrap.
 - 👯 I am currently learning JavaScript.
 - 🥅 Also finishing FrontEnd career in [coderhouse][website].
-- ⚡ English level: c2.
+- ⚡ English level: c1.
 - 📺 Hobbies: Drawing, reading, music and gaming!
 
 <br />
