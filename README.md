@@ -3,9 +3,9 @@
 ## Web Developer, FrontEnd student & UI Designer!!
 
 
-- 🌱 My strengths are Html, Css, Scss, Bootstrap, JavaScript.
+- 🌱 My strengths are Html, Html5, Css, Scss, Bootstrap, JavaScript, React.Js, Git, Kanban, Figma, Bootstrap, Basic LLC, Basic Apex.
 - 👯 I am currently learning Salesforce dev.
-- 🥅 Also finishing FrontEnd career in [coderhouse][website].
+- 🥅 Front End Developer.
 - ⚡ English level: c1.
 - 📺 Hobbies: Drawing, reading, music and gaming!
 
